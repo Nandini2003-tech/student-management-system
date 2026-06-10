@@ -31,5 +31,5 @@ https://studentms-project.infinityfreeapp.com
 
 ## Author
 
-Nandini Kohli
+Nandini
 
