@@ -56,7 +56,7 @@ if (isset($_POST['login'])) {
               }
             ?>  
             <div class="mb-3">
-                <label class="form-label">Username</label>
+                <label class="form-label">Email</label>
                 <input type="email" placeholder="Email" name="email" class="form-control py-2">
             </div>
             <div class="mb-3">
@@ -66,6 +66,12 @@ if (isset($_POST['login'])) {
              
             <input type="submit" value="Login" name="login" class="btn btn-dark w-100 py-2 fw-bold">
         </form>
+
+        <div class="alert alert-info mt-3 mb-0 py-2">
+                    <strong>Demo Credentials:</strong><br>
+                   Email : admin@gmail.com <br>
+                   Password : admin123
+        </div>
     </div>
 
     <script>
