@@ -70,7 +70,7 @@ if (isset($_POST['login'])) {
         <div class="alert alert-info mt-3 mb-0 py-2">
                     <strong>Demo Credentials:</strong><br>
                    Email : admin@gmail.com <br>
-                   Password : admin123
+                   Password : 12345
         </div>
     </div>
 
